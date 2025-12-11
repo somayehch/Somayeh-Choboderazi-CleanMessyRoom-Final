@@ -49,5 +49,5 @@ Use this code to load the trained model:
 
 ## Note
 
-If the model file is missing, this is normal.  
+If the model file is missing, this is normal.
 Your training notebook will recreate it automatically.
