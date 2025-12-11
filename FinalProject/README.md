@@ -71,8 +71,6 @@ The model shows strong ability to recognize visual patterns associated with clea
 ---
 
 
----
-
 ## 🎯 Objectives
 - Practice CNN-based image classification  
 - Apply preprocessing and augmentation  
