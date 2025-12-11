@@ -2,7 +2,6 @@
 
 This folder contains the trained model (or instructions to recreate it) for the Clean vs Messy Room Classification Final Project.
 
-----------------------------------------------------
 
 ## Model File
 
@@ -14,12 +13,11 @@ After training, the model was saved using this command:
 
 If the model file (model_final.pth) is missing because it was too large to upload to GitHub, you can recreate it by running:
 
-1. notebooks/01_dataset_preparation.ipynb
-2. notebooks/02_training.ipynb
+    notebooks/01_dataset_preparation.ipynb
+    notebooks/02_training.ipynb
 
 These notebooks will generate a new model_final.pth file.
 
-----------------------------------------------------
 
 ## How to Load the Model
 
@@ -37,7 +35,6 @@ Use this code to load the trained model:
 
     model.eval()
 
-----------------------------------------------------
 
 ## Folder Structure
 
@@ -45,7 +42,6 @@ Use this code to load the trained model:
         model_final.pth   (optional)
         README.md         (this file)
 
-----------------------------------------------------
 
 ## Note
 
