@@ -1,50 +1,51 @@
 # Project Documentation – Clean vs Messy Room Classifier
 
-This folder contains additional documentation and summaries related to the Clean vs Messy Room Classification Final Project for ITAI-1378 (Computer Vision).
+This folder contains optional documentation related to the Clean vs Messy Room Classification Final Project for ITAI-1378 (Computer Vision).
 
-These documents provide project insights, development notes, and extended explanations beyond the main README.
+These documents can help explain the project more deeply and support the main README by providing extra clarity, planning, and development notes.
 
 ---
 
 ## 📘 Project Summary
 
-This project focuses on building a deep learning model that can classify images of rooms as **Clean** or **Messy**.  
-Using a custom dataset and transfer learning with **ResNet50**, the model was trained to recognize patterns associated with clutter, tidiness, and overall room organization.
+This project focuses on building a deep learning model that classifies room images as Clean or Messy.  
+The model was trained using a custom dataset and fine-tuned with a ResNet50 architecture.
 
-The project demonstrates:
+The work demonstrates:
 
-- Dataset creation and preprocessing  
-- Deep learning model training (PyTorch)  
-- Evaluation and visualization of results  
-- A simple user interface for testing real images  
-- Proper folder structure for an AI portfolio project  
+- Custom dataset creation and preparation  
+- Deep learning model training  
+- Model evaluation and visualization  
+- A simple user interface for testing images  
+- Proper folder structure for an AI project  
 
 ---
 
 ## 🧠 Key Contributions
 
-- **Custom Dataset Creation:** Gathered real home images using Bing Image Downloader.  
+- **Dataset Creation:** Collected real home images using Bing Image Downloader.  
 - **Model Training:** Fine-tuned ResNet50 for binary classification.  
-- **Performance:** Achieved strong validation accuracy with a small but well-curated dataset.  
-- **Evaluation:** Saved sample results and predictions in the `results/` folder.  
-- **Demo Notebook:** Built an interactive interface for users to upload an image and receive a prediction.  
+- **Performance:** Achieved strong results with a curated dataset.  
+- **Evaluation:** Sample predictions and evaluation images stored in the `results/` folder.  
+- **Demo Notebook:** Built an interactive user interface to test new images.  
 
 ---
 
-## 📄 Included Documents (Optional)
+## 📄 Optional Documents You May Add Here
 
-If you have summaries, reports, or notes, you can place them here:
+This folder may include (if available):
 
 - Project summary PDF  
 - Evaluation notes  
 - Additional screenshots  
 - Class documentation  
-- Planning & workflow notes  
+- Planning or workflow notes  
 
-Just upload them directly into the `/docs` folder.
+Adding documents here is optional but can make the project more complete and professional.
 
 ---
 
 ## 📝 Notes
 
-The documents in this folder are optional but help strengthen your portfolio by demonstrating clear communication, project planning, and understanding of the AI workflow.
+This folder is included as part of a clean and organized AI portfolio structure.  
+If no extra documents are currently available, a placeholder file is included to keep the folder visible.
