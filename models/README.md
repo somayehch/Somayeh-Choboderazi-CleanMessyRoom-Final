@@ -2,7 +2,7 @@
 
 This folder contains the trained model (or instructions to recreate it) for the Clean vs Messy Room Classification Final Project.
 
----
+----------------------------------------------------
 
 ## Model File
 
@@ -19,7 +19,7 @@ If the model file (model_final.pth) is missing because it was too large to uploa
 
 These notebooks will generate a new model_final.pth file.
 
----
+----------------------------------------------------
 
 ## How to Load the Model
 
@@ -37,7 +37,7 @@ Use this code to load the trained model:
 
     model.eval()
 
----
+----------------------------------------------------
 
 ## Folder Structure
 
@@ -45,9 +45,9 @@ Use this code to load the trained model:
         model_final.pth   (optional)
         README.md         (this file)
 
----
+----------------------------------------------------
 
 ## Note
 
 If the model file is missing, this is normal.
-Your training notebook will recreate it automatically.
+Running the training notebook will recreate it automatically.
