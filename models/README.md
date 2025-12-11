@@ -36,14 +36,4 @@ Use this code to load the trained model:
     model.eval()
 
 
-## Folder Structure
 
-    models/
-        model_final.pth   (optional)
-        README.md         (this file)
-
-
-## Note
-
-If the model file is missing, this is normal.
-Running the training notebook will recreate it automatically.
