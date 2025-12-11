@@ -1,0 +1,11 @@
+### 🖼️ example_predictions_2.png — Example Predictions (Set 2)
+
+This is a second set of prediction examples.  
+Different images help show whether the model can handle variety, such as:
+
+- Different types of rooms  
+- Different lighting  
+- Different angles  
+- Different levels of messiness  
+
+Showing multiple sets of predictions proves the model can generalize and is not just memorizing the training data.
