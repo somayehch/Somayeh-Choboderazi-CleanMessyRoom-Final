@@ -4,28 +4,26 @@ This folder contains the trained model (or instructions to recreate it) for the 
 
 ---
 
-## 📦 Model File
+## Model File
 
 The trained model used in this project is a fine-tuned ResNet50.
 
-After training, the model was saved using:
+After training, the model was saved using the following command:
 
     torch.save(model.state_dict(), "model_final.pth")
 
-### If the model file is missing  
-GitHub often blocks large files.  
-So if `model_final.pth` is not included in this folder because it was too big to upload, you can recreate the model by running:
+If the model file (model_final.pth) is not included in this folder because it was too large to upload, you can recreate it by running:
 
-1. notebooks/01_dataset_preparation.ipynb  
-2. notebooks/02_training.ipynb  
+1. notebooks/01_dataset_preparation.ipynb
+2. notebooks/02_training.ipynb
 
-Running these notebooks will generate a new `model_final.pth`.
+Running these notebooks will generate a new model_final.pth.
 
 ---
 
-## 🔧 How to Load the Model
+## How to Load the Model
 
-Here is the code used to load the trained model:
+Use the following code to load the model for testing or the demo interface:
 
     import torch
     import torchvision.models as models
@@ -41,15 +39,15 @@ Here is the code used to load the trained model:
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
     models/
-        model_final.pth      (optional)
-        README.md
+        model_final.pth   (optional)
+        README.md         (this file)
 
 ---
 
-## 📝 Note
+## Note
 
 If the model file is missing, this is normal.  
-Running the training notebook will recreate it.
+Your training notebook will recreate it automatically.
