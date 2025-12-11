@@ -1,0 +1,12 @@
+### 🖼️ example_predictions_1.png — Example Predictions (Set 1)
+
+This picture shows how the model predicts Clean and Messy rooms on real test images.  
+Each image includes the prediction and whether it was correct.
+
+This helps me see:
+
+- If the model understands visual features of a clean or messy room  
+- How the model behaves on new images it has not seen before  
+- Whether the model is learning meaningful patterns such as clutter, floor visibility, and organization  
+
+Seeing prediction examples makes the model’s performance easier to understand visually.
