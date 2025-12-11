@@ -98,30 +98,9 @@ Each notebook includes detailed markdown explanations and outputs.
 ----
 
 
----
 
-## 📈 Results
 
-The model achieved strong generalization performance, including:
 
-- **≈ 85–90% validation accuracy**  
-- Sample predictions stored in `/results`  
-- Evaluation results and screenshots included  
-
----
-
-## 📘 Notebooks Overview
-
-All project notebooks are organized in `/notebooks`:
-
-1. **01_dataset_preparation.ipynb** – dataset creation  
-2. **02_training.ipynb** – model training  
-3. **03_evaluation.ipynb** – evaluation and testing  
-4. **04_demo_user_interface.ipynb** – user-friendly image classifier demo  
-
-Each notebook includes detailed markdown explanations and outputs.
-
----
 
 - **GitHub:** https://github.com/somayehch
 
