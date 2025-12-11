@@ -1,3 +1,3 @@
-Dataset not included due to licensing and file size restrictions.
-Folder preserved for structure demonstration only.
+This placeholder file is used to keep the dataset folder visible.
+Dataset images are NOT included in this repository.
 
