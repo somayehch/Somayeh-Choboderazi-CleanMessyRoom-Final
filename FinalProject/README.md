@@ -4,18 +4,15 @@
 This project uses a Convolutional Neural Network (CNN) to classify room images as **Clean** or **Messy**.  
 It demonstrates essential Computer Vision steps including preprocessing, training, evaluation, and visualization.
 
-This final project contains **four Jupyter Notebooks**, each handling a separate stage of the workflow.
+This final project contains **four Jupyter Notebooks**, each covering a different stage of the workflow.
 
 ---
 
 ## 📂 Project Structure
 
-
 ---
 
 ## 📘 Notebook Descriptions
-
----
 
 ### **1. 01_Data_Preprocessing.ipynb**
 - Loads and explores the dataset  
@@ -42,7 +39,7 @@ This final project contains **four Jupyter Notebooks**, each handling a separate
 ---
 
 ## 📊 Results Summary  
-(Replace with your numbers)
+*(Replace with your actual results)*
 
 - **Final Accuracy:**  
 - **Precision, Recall, F1:**  
@@ -59,18 +56,6 @@ The model shows strong ability to recognize visual patterns associated with clea
 
 ---
 
-
-### **Run Notebooks in Order**
-1. `01_Data_Preprocessing.ipynb`  
-2. `02_Model_Training.ipynb`  
-3. `03_Evaluation.ipynb`  
-4. `04_Visualization_and_Results.ipynb`  
-
-### **Dataset Structure**
-
----
-
-
 ## 🎯 Objectives
 - Practice CNN-based image classification  
 - Apply preprocessing and augmentation  
@@ -82,5 +67,3 @@ The model shows strong ability to recognize visual patterns associated with clea
 ## 👩‍💻 Author
 **Somayeh Choboderazi**  
 Final Project – Computer Vision / AI Course
-
----
