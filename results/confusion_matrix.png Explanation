@@ -1,0 +1,13 @@
+### 📉 confusion_matrix.png — Model Performance Summary
+
+This picture shows the confusion matrix, which is a key tool for understanding how well the model performs.
+
+The confusion matrix explains:
+
+- How many Clean rooms were correctly identified  
+- How many Messy rooms were correctly identified  
+- Where the model made mistakes  
+- Whether the model confuses one category with the other  
+
+Correct predictions appear on the diagonal, while mistakes appear off the diagonal.  
+This picture gives a deeper and more complete understanding of the model’s accuracy beyond a simple number.
