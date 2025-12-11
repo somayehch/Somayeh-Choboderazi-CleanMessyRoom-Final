@@ -1,0 +1,13 @@
+### 🖼️ sample_dataset.png — Preview of the Dataset
+
+This picture shows a small sample of the images used in my Clean vs. Messy Room classification project.  
+It helps confirm that the dataset is working correctly before training the model.
+
+By looking at this preview, I can make sure that:
+
+- The images load correctly  
+- Both categories (Clean and Messy rooms) are included  
+- The pictures are clear and realistic  
+- There is variety in lighting, angle, and room layout  
+
+This step is important because the quality of the dataset affects how well the model learns.
