@@ -1,4 +1,3 @@
-# Somayeh-Choboderazi-CleanMessyRoom-Final
 # Clean vs Messy Room Classifier – Final Project (ITAI-1378)
 
 A Computer Vision system that predicts whether a room is **Clean** or **Messy** using a fine-tuned **ResNet50** deep learning model.  
